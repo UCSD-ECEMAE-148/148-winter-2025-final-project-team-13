@@ -1,6 +1,16 @@
-# SteeAir - Steer the car with hand in air!
+<div id="top"></div>
 
-## MAE148 Winter 2025 Final Project
+<h1 align="center"> SteeAir - Steer the car with hand in air!</h1>
+<!-- PROJECT LOGO -->:
+<br />
+<div align="center">
+  <a href="https://jacobsschool.ucsd.edu/">
+    <img src="https://github.com/user-attachments/assets/717f342a-4328-457f-a119-9e82651d5955" alt="Logo" width="400" height="100">
+  </a>
+<h3>MAE148 Final Project</h3>
+<p>
+Team 13 Winter 2025
+</p>
 
 SteeAir is an innovative system that allows users to steer a car using hand gestures detected by a camera. This project leverages computer vision and machine learning techniques to provide intuitive and controller-free vehicle control. Additionally, a LiDAR-based security system is integrated for fail-safe operation and to correct unsafe driving behavior.
 
