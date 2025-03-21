@@ -140,9 +140,9 @@ https://github.com/user-attachments/assets/5adb9c2c-4ca9-4d20-9c99-be9ab224acd8
 - If the system detects a potential collision or erratic steering, it can trigger the fail-safe mode to correct the vehicle's trajectory.
 
 
-<video width="320" height="240" controls>
-  <source src="/Images/IMG_2720.mov" type="video/mov">
-</video>
+
+https://github.com/user-attachments/assets/67a96d00-3845-4a37-a216-22a165818051
+
 
 ### ROS2 Integration
 
