@@ -144,6 +144,14 @@ https://github.com/user-attachments/assets/5adb9c2c-4ca9-4d20-9c99-be9ab224acd8
 https://github.com/user-attachments/assets/67a96d00-3845-4a37-a216-22a165818051
 
 
+https://github.com/user-attachments/assets/c6d9f11f-f461-4778-b8cb-1ff710482a3f
+
+
+
+https://github.com/user-attachments/assets/028629c0-b1a8-4c8f-83eb-c842b0de3f12
+
+
+
 ### ROS2 Integration
 
 - The entire system is connected via ROS2, allowing seamless communication between the hand gesture recognition module and the LiDAR sensor.
