@@ -177,7 +177,6 @@ https://github.com/user-attachments/assets/028629c0-b1a8-4c8f-83eb-c842b0de3f12
 
 ### Software
 #### Chatgpt
-!!!!!!! FIX THIS SECTION !!!!!!!
 
 We connected Chatgpt to the robocar by using the Openai API, utilizing two seperate models. The first model was GPT4 with Vision, which processes commands from the user and images. Then this model creates an action plan for what the car can do. Since the image based models don't have function calling to trigger the drive commands, we used a second GPT4-Turbo model to read the vision models plan and turn those into functions. Chatgpt had acces to two functions, a drive command to control steering, speed, and motion timeout. Then it had control over a path function, which let chatgpt generate a csv path of x and y coordinates + a throttle for the car to follow. Chatgpt had access to the cameras, lidar data, gps data, and user prompts. We picked and chose which data to give Chatgpt based on the use case.
 
